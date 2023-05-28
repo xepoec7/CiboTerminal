@@ -3,7 +3,6 @@ import {Center, Heading, ScrollView } from "native-base"
 import { StyleSheet } from "react-native";
 import OrdersListComponent from "../components/home/OrderListComponent";
 import InvoiceListComponent from "../components/home/InvoiceListComponent";
-import Printer from "../services/PrintService";
 import NewOrdersComponent from "../components/home/NewOrdersComponent";
 
 

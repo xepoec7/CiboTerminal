@@ -10,7 +10,6 @@ const ProductDetailScreen = (props,{route}) => {
     const product_id = props.route.params.product_id;
     const [product, setProduct] = useState();
     const topings = props.route.params.topings;
-    console.log(topings);
 
 
     useEffect(() => {

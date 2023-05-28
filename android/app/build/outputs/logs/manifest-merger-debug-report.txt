@@ -13,6 +13,7 @@ MERGED from [:react-native-async-storage_async-storage] /home/danijel/Projects/R
 MERGED from [:react-native-keep-awake] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-svg] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.5] /home/danijel/.gradle/caches/transforms-3/6de4b65bd4396299c1f22d913013cde6/transformed/jetified-react-android-0.71.5-debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/danijel/.gradle/caches/transforms-3/0494e7d0cad061b4e0cc9fcdf3d2fe8a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -198,6 +199,8 @@ MERGED from [:react-native-safe-area-context] /home/danijel/Projects/React-Nativ
 MERGED from [:react-native-safe-area-context] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.5] /home/danijel/.gradle/caches/transforms-3/6de4b65bd4396299c1f22d913013cde6/transformed/jetified-react-android-0.71.5-debug/AndroidManifest.xml:5:5-7:41

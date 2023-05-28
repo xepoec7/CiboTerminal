@@ -33,6 +33,9 @@ com.ciboterminal.app-debug-31 /home/danijel/Projects/React-Native/CiboTerminal/a
 com.ciboterminal.app-main-32 /home/danijel/Projects/React-Native/CiboTerminal/android/app/src/main/res
 com.ciboterminal.app-packaged_res-33 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/@brooons/react-native-bluetooth-escpos-printer/android/build/intermediates/packaged_res/debug
 com.ciboterminal.app-packaged_res-34 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/packaged_res/debug
-com.ciboterminal.app-packaged_res-35 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
-com.ciboterminal.app-packaged_res-36 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
-com.ciboterminal.app-packaged_res-37 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-svg/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-35 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-keep-awake/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-36 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-37 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-38 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-sound/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-39 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/debug
+com.ciboterminal.app-packaged_res-40 /home/danijel/Projects/React-Native/CiboTerminal/node_modules/react-native-svg/android/build/intermediates/packaged_res/debug

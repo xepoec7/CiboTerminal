@@ -1,90 +1,94 @@
 [
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable/rn_edit_text_material.xml"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/layout_launch_screen.xml.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/layout/launch_screen.xml"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_close.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_close.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable/rn_edit_text_material.xml"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.ciboterminal.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png.flat",
-        "source": "com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png"
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-merged_res-30:/drawable-mdpi_node_modules_reactnative_libraries_logbox_ui_logboximages_close.png.flat",
+        "source": "/home/danijel/.gradle/daemon/7.5.1/com.ciboterminal.app-main-32:/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_close.png"
     }
 ]

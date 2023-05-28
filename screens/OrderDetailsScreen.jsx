@@ -37,7 +37,7 @@ const OrderScreen = ({route}) => {
 
 
     const renderItem = ({item}) => (
-        <Box bg="white">
+        <Box bg="white" key={item.id}>
             <Box pl="4" pr="5" py="2" key={item.id}>
                 <HStack alignItems="center" space={3}>
                     <VStack key={item.id}>

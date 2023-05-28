@@ -19,7 +19,7 @@ const ClientScreen = () => {
                 <Heading>Clienti</Heading>
                 <VStack flex={1}>
                     <HStack space={1} flexWrap="wrap">
-                        <Pressable onPress={() => navigation.navigate("OrderCompleteScreen", {client: "pickup"})}>
+                        <Pressable onPress={() => navigation.navigate("OrderCompleteScreen", {client: 4})}>
                             <Box
                                 style={styles.box}
                                 alignItems="center"

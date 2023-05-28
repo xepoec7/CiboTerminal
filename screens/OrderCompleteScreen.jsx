@@ -15,15 +15,16 @@ const OrderCompleteScreen = ({route}) => {
     const [completed, setCompleted] = useState(false);
     const [errorMsg, setErrorMsg] = useState("");
     const [order, setOrder] = useState();
+    const [orderNr, setOrderNr] = useState();
 
 
     useEffect(() => {
         let data = {client: client, orderitems: cartItems};
-        console.log(order);
         API.sendOrder(data)
             .then((res) => {
                 let data = res.data;
                 setOrder(data);
+                setOrderNr(data.orderNr);
                 setCompleted(true);
                 API.acceptOrder(data.id)
                     .then(()=> {
@@ -44,6 +45,11 @@ const OrderCompleteScreen = ({route}) => {
     }
 
 
+    const printAgain = () => {
+        PRINTER.printItems(orderNr, order.orderitems);
+    }
+
+
     return (
         <VStack safeAreaTop bg={completed? "green.300":"red.300"} h="100%">
             {completed? (
@@ -57,7 +63,7 @@ const OrderCompleteScreen = ({route}) => {
                         <Heading>{order.orderNr}</Heading>
                     </VStack>
                     <VStack space={5} pt={10} alignItems="center">
-                        <Button colorScheme={"warning"} w="250">stampa di nuovo</Button>
+                        <Button onPress={() => printAgain()} colorScheme={"warning"} w="250">stampa di nuovo</Button>
                         <Button onPress={() => finishHandler()} colorScheme={"success"} w="250">FINE</Button>
                     </VStack>
                 </Box>

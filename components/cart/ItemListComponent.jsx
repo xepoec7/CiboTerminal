@@ -8,7 +8,7 @@ const ItemsListComponent = () => {
     const { cartItems, removeFromCart } = useContext(CartContext);
 
     const renderItems = ({item}) => (
-        <Box bg="white">
+        <Box bg="white" key={item.id}>
             <Box pl="4" pr="5" py="2">
                 <HStack alignItems="center" space={3}>
                     <VStack>

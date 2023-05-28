@@ -16,7 +16,6 @@ import TableScreen from "./screens/TableScreen";
 import InvoiceDetailsScreen from "./screens/InvoiceDetailsScreen";
 import PosScreen from "./screens/PosScreen";
 
-
 import KeepAwake from 'react-native-keep-awake';
 import Api from "./services/ApiService";
 

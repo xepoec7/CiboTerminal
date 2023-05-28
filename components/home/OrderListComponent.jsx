@@ -1,4 +1,4 @@
-import { useNavigation } from "@react-navigation/native";
+import { useFocusEffect, useNavigation } from "@react-navigation/native";
 import { Box, HStack, Pressable, Text } from "native-base";
 import React, { useEffect, useState } from "react";
 import { StyleSheet } from "react-native";
@@ -20,6 +20,19 @@ const OrdersListComponent = () => {
                 setOrders(data);
             });
     },[])
+
+
+    useFocusEffect(
+        React.useCallback(() => {
+            API.getOrders()
+            .then((res) => {
+                let data = res.data;
+                setOrders(data);
+            });
+        }, [])
+    );
+
+    
 
     useEffect(() => {
         const interval = setInterval(() => {

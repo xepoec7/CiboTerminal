@@ -1,4 +1,4 @@
-import { useNavigation } from "@react-navigation/native";
+import { useFocusEffect, useNavigation } from "@react-navigation/native";
 import { Box, HStack, Pressable, Text } from "native-base";
 import React, { useEffect, useState } from "react";
 import { StyleSheet } from "react-native";
@@ -19,6 +19,16 @@ const InvoiceListComponent = () => {
                 setInvoices(data);
             });
     }, []);
+
+    useFocusEffect(
+        React.useCallback(() => {
+            API.getInvoices()
+            .then((res) => {
+                let data = res.data;
+                setInvoices(data);
+            });
+        }, [])
+    );
 
 
     useEffect(() => {
