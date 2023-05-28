@@ -1,9 +1,10 @@
 import axios from 'axios';
+import {BASE_URL} from '@env';
 
 export default class Api {
 
     constructor() {
-        this.api_url = process.env.BASE_URL;
+        this.api_url = BASE_URL;
         this.client = null;
     }
 
